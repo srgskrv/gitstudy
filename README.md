@@ -8,3 +8,4 @@
 // Comment3
 
 Title - new article
+Text - here wil be new text
